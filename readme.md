@@ -6,5 +6,10 @@ To run SCPO, please visit https://github.com/intelligent-control-lab/guard which
 
 ## Citing SCPO
 ```
-To appear soon.
+@article{zhao2023state,
+  title={State-wise Constrained Policy Optimization},
+  author={Zhao, Weiye and Chen, Rui and Sun, Yifan and Wei, Tianhao and Liu, Changliu},
+  journal={arXiv preprint arXiv:2306.12594},
+  year={2023}
+}
 ```
